@@ -1,0 +1,88 @@
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Tokenizers/Settings/encoder.json
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Tokenizers/Settings/vocab.bpe
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.exe
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.deps.json
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.runtimeconfig.json
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.pdb
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Bcl.HashCode.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Abstractions.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Connectors.AI.OpenAI.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Core.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Planning.ActionPlanner.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Planning.SequentialPlanner.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/System.Linq.Async.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.csproj.AssemblyReference.cache
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.AssemblyInfoInputs.cache
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.AssemblyInfo.cs
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.csproj.CoreCompileInputs.cache
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.csproj.CopyComplete
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/refint/Example01.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.pdb
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.genruntimeconfig.cache
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/obj/Debug/net7.0/ref/Example01.dll
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/LearnEnglishSkill/config.json
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/LearnEnglishSkill/Skprompt.txt
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/WordsToSentence/config.json
+C:/Users/79907/Desktop/ASP.NET Core 学习/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/WordsToSentence/Skprompt.txt
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Tokenizers/Settings/encoder.json
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Tokenizers/Settings/vocab.bpe
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/LearnEnglishSkill/config.json
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/LearnEnglishSkill/Skprompt.txt
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/WordsToSentence/config.json
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/SemanticSkills/LearningSkill/WordsToSentence/Skprompt.txt
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.deps.json
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.runtimeconfig.json
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Example01.pdb
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Azure.Core.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Bcl.HashCode.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Abstractions.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Connectors.AI.OpenAI.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Core.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Planning.ActionPlanner.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.SemanticKernel.Planning.SequentialPlanner.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/System.Linq.Async.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.csproj.AssemblyReference.cache
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.AssemblyInfoInputs.cache
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.AssemblyInfo.cs
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.csproj.CoreCompileInputs.cache
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.csproj.CopyComplete
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/refint/Example01.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.pdb
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/Example01.genruntimeconfig.cache
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/obj/Debug/net7.0/ref/Example01.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/wilikis/Desktop/Semantic-Kernel/Example01/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>63a88a34-5d13-4b23-bd0c-ba3b50eadf2a</UserSecretsId>
+  </PropertyGroup>
+
+   <ItemGroup>
+        <None Update="SemanticSkills\*\*\*.txt">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+    <ItemGroup>
+        <None Update="SemanticSkills\*\*\*.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="7.0.0" />
+      <PackageReference Include="Microsoft.SemanticKernel" Version="0.13.442.1-preview" />
+    </ItemGroup>
+</Project>

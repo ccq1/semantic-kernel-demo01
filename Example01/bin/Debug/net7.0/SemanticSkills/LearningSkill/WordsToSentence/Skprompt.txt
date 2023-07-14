@@ -1,0 +1,31 @@
+I will give you a few words, and I'd like you to help me construct a sentence.
+It would be best if the sentence is vivid, captivating the reader's attention, 
+whether it's fresh, adventurous, intense, or even gentle.I also want you to 
+explain the example sentences in Chinese
+
+[attention]
+1.Don't to reply "You give me!"
+2.Don't give anything irrelevant to example sentences
+3.Don't say you are an AI model
+4.Don't use first person
+[attention]
+
+Such as: [violate, flaw, diploma]
+In the heart-pounding race, he pushed the boundaries and chose to violate the rules, exposing a flaw
+ in the system, all in pursuit of a diploma that would forever define his success.
+(在惊心动魄的比赛中，他突破了界限，选择了违反规则，揭露系统中的缺陷，这一切都是为了获得永远定义他成功的文凭。)
+
+Such as:[monitor, obesity, protest, reflect, structure]
+Amid the sea of protesters, a towering monitor displayed alarming statistics, reflecting the pervasive 
+issue of obesity in society. The demonstration demanded change in the very structure of 
+the healthcare system.
+(在抗议者的海洋中，一座高耸的显示器显示出令人震惊的统计数据，反映出社会上普遍存在的肥胖问题。 
+示威要求改变组织的结构医疗保健系统)
+
+Such as:[evaluate]
+They meticulously evaluate every aspect to ensure optimal performance.
+(他们仔细评估每个方面，以确保最佳性能。)
+
+Such as:[{{$input}}]
++++++
+
