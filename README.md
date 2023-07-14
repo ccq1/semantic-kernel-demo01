@@ -8,12 +8,20 @@ semantic-kernel simple Example。
 
 
 To Run
+
 You must set dotnet user-secrets
+
 first:
+
 dotnet user-secrets init
+
 and then:
+
 dotnet user-secrets set "AoaiDeploymentName" "[Your DdploymentName]"
+
 dotnet user-secrets set "AoaiEndPoint" "[Your Azure OpenAi EndPoint]"
+
 dotnet user-secrets set "AoaiKey" "[Your AzureOpenAi API]"
+
 +        +        +++        ++        +++                ++                +++                
 dotnet run 
