@@ -1,27 +1,32 @@
-# semantic-kernel-demo01
-input some words make sentences.
+# README.md
 
-semantic-kernel simple Example。
+## semantic-kernel-demo01
 
+Input some words to make sentences.
 
+**Semantic-Kernel Simple Example**
+
+### such as
 <img width="592" alt="image" src="https://github.com/ccq1/semantic-kernel-demo01/assets/78813459/b8191e84-0818-4eb4-8138-4c0a4c9303c8">
 
+To run:
 
-To Run
+1. You must set dotnet user-secrets. First, execute the command:
 
-You must set dotnet user-secrets
+   ```
+   dotnet user-secrets init
+   ```
 
-first:
+2. Then, set the following secrets:
 
-dotnet user-secrets init
+   ```
+   dotnet user-secrets set "AoaiDeploymentName" "[Your Deployment Name]"
+   dotnet user-secrets set "AoaiEndPoint" "[Your Azure OpenAi EndPoint]"
+   dotnet user-secrets set "AoaiKey" "[Your AzureOpenAi API]"
+   ```
 
-and then:
+Now you can execute the command:
 
-dotnet user-secrets set "AoaiDeploymentName" "[Your DdploymentName]"
-
-dotnet user-secrets set "AoaiEndPoint" "[Your Azure OpenAi EndPoint]"
-
-dotnet user-secrets set "AoaiKey" "[Your AzureOpenAi API]"
-
-+        +        +++        ++        +++                ++                +++                
-dotnet run 
+```
+dotnet run
+```
